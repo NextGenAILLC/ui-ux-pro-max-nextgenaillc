@@ -1,18 +1,4 @@
-# UI UX Pro Max
-
-An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
-
-<p align="center">
-  <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
-</p>
-
-## Overview
-
-UI UX Pro Max is a searchable database of UI styles, color palettes, font pairings, chart types, product recommendations, UX guidelines, and stack-specific best practices. It works as a skill/workflow for AI coding assistants (Claude Code, Cursor, Windsurf, etc.).
-
-## Features
-
-- **57 UI Styles** - Glassmorphism, Claymorphism, Minimalism, Brutalism, Neumorphism, Bento Grid, Dark Mode, and more
+/reference/data#enrichment:company-ratings-by-employees UI Styles** - Glassmorphism, Claymorphism, Minimalism, Brutalism, Neumorphism, Bento Grid, Dark Mode, and more
 - **95 Color Palettes** - Industry-specific palettes for SaaS, E-commerce, Healthcare, Fintech, Beauty, etc.
 - **56 Font Pairings** - Curated typography combinations with Google Fonts imports
 - **24 Chart Types** - Recommendations for dashboards and analytics
